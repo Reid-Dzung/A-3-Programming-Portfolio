@@ -2,7 +2,7 @@
 
 ## Programming Semester 1 Projects:
 
-### Calculator Projects
+### Calculator Project
 
 ## Programming Semester 2 Projects:
 
