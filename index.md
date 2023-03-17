@@ -32,5 +32,7 @@ You get to watch cars drive across the screan.
 
 A functional app that translates English to PigLatin.
 
-![]
+![Piglatin](https://github.com/Reid-Dzung/A-3-Programming-Portfolio/blob/gh-pages/Images/Screen%20Shot%202023-03-16%20at%208.23.55%20PM.png)
+
+[Source Code](https://github.com/Reid-Dzung/A-3-Programming-Portfolio/tree/gh-pages/src/Piglatin)
 
