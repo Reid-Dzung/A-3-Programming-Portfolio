@@ -28,3 +28,9 @@ You get to watch cars drive across the screan.
 
 [Source Code](https://github.com/Reid-Dzung/A-3-Programming-Portfolio/tree/gh-pages/src/CarTester)
 
+### Pig Latian Translator
+
+A functional app that translates English to PigLatin.
+
+![]
+
