@@ -6,3 +6,4 @@ My Eamil: reid.dzung@icloud.com
 
 ### Spot Light 
 
+![Running Screenshot](https://github.com/Reid-Dzung/A-3-Programming-Portfolio/blob/gh-pages/Images/Age.png)
