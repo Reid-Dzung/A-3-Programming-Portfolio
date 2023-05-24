@@ -1,4 +1,4 @@
-# ProgrammingPortfolio
+# Programming Portfolio
 ## Made By Reid-Dzung Nguyen
 
 My Eamil: reid.dzung@icloud.com
