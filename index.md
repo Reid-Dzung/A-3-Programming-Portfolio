@@ -26,7 +26,7 @@ Converts Age in Years to age in Hours
 
 Have a Ball Bouning around the screen
 
-![Ball](https://github.com/Reid-Dzung/A-3-Programming-Portfolio/blob/gh-pages/Images/ColDet.png?raw=true)
+![Ball](https://github.com/Reid-Dzung/A-3-Programming-Portfolio/blob/gh-pages/Images/Ball.png?raw=true)
 
 [Source Code](https://github.com/Reid-Dzung/A-3-Programming-Portfolio/tree/gh-pages/src/ColDet)
 
