@@ -30,7 +30,7 @@ A functional app that translates English to PigLatin.
 
 A action pacted game where you are a ship defedign a castle from pirates.
 
-![SpaceGame](https://github.com/Reid-Dzung/A-3-Programming-Portfolio/blob/gh-pages/Images/Screen%20Shot%202023-03-01%20at%2012.10.32%20PM.png?raw=true)
+![SpaceGame](https://github.com/Reid-Dzung/A-3-Programming-Portfolio/blob/gh-pages/Images/SpaceGame.png?raw=true)
 
 [Source Code](https://github.com/Reid-Dzung/A-3-Programming-Portfolio/tree/gh-pages/src/SpaceGame)
 
