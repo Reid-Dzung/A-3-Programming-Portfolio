@@ -5,7 +5,7 @@ My Eamil: reid.dzung@icloud.com
 
 ### Spot Light (Favorite Project)
 
-All other Projects can be found in the Index found [here]()
+All other Projects can be found in the Index found [here](https://github.com/Reid-Dzung/A-3-Programming-Portfolio/blob/gh-pages/index.md)
 
 #### Alpraum Von James
 
